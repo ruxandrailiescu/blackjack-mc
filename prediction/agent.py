@@ -1,6 +1,7 @@
 import numpy as np
 
 
+# Learning the state-value function for a given policy
 class Agent():
 
     def __init__(self, gamma=1.0):
